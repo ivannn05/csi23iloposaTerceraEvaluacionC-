@@ -1,0 +1,14 @@
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23iloposaTerceraEvaluacion\bin\Debug\net8.0\csi23iloposaTerceraEvaluacion.exe
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23iloposaTerceraEvaluacion\bin\Debug\net8.0\csi23iloposaTerceraEvaluacion.deps.json
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23iloposaTerceraEvaluacion\bin\Debug\net8.0\csi23iloposaTerceraEvaluacion.runtimeconfig.json
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23iloposaTerceraEvaluacion\bin\Debug\net8.0\csi23iloposaTerceraEvaluacion.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23iloposaTerceraEvaluacion\bin\Debug\net8.0\csi23iloposaTerceraEvaluacion.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23iloposaTerceraEvaluacion\obj\Debug\net8.0\csi23iloposaTerceraEvaluacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23iloposaTerceraEvaluacion\obj\Debug\net8.0\csi23iloposaTerceraEvaluacion.AssemblyInfoInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23iloposaTerceraEvaluacion\obj\Debug\net8.0\csi23iloposaTerceraEvaluacion.AssemblyInfo.cs
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23iloposaTerceraEvaluacion\obj\Debug\net8.0\csi23iloposaTerceraEvaluacion.csproj.CoreCompileInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23iloposaTerceraEvaluacion\obj\Debug\net8.0\csi23iloposaTerceraEvaluacion.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23iloposaTerceraEvaluacion\obj\Debug\net8.0\refint\csi23iloposaTerceraEvaluacion.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23iloposaTerceraEvaluacion\obj\Debug\net8.0\csi23iloposaTerceraEvaluacion.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23iloposaTerceraEvaluacion\obj\Debug\net8.0\csi23iloposaTerceraEvaluacion.genruntimeconfig.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23iloposaTerceraEvaluacion\obj\Debug\net8.0\ref\csi23iloposaTerceraEvaluacion.dll
